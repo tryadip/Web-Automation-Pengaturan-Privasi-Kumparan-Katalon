@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengaturan Privasi Neg_Klik simpan dengan format email yang salah pada setting email_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b927af3c-eb8a-4132-bc48-db9752092c23</testCaseGuid>
+</TestCaseEntity>

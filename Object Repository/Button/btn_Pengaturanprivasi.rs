@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Pengaturanprivasi</name>
+   <tag></tag>
+   <elementGuidId>4bd313a8-877b-466b-acbf-de3b6ce4c5bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div[2]/div/div[1]/nav/div/div/div[3]/div[2]/div/div[2]/div/div/a[2]/div/div[2]/div/div/div[1]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengaturan Privasi Pos_simpan nomer telp dengan nomer telepon valid pada setting nomer_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8a355e0-7a7c-4ddc-9f82-13314ec05811</testCaseGuid>
+</TestCaseEntity>

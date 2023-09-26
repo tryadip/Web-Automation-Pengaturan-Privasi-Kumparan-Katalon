@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "CDE7EAACFA3B9CE2D7D6F36E06E4FF2C",
+  "keywordClasses": [
+    {
+      "name": "verify.verify",
+      "keywordMethods": [
+        {
+          "name": "verifybutton",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

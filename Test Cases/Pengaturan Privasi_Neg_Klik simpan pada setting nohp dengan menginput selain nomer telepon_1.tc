@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengaturan Privasi_Neg_Klik simpan pada setting nohp dengan menginput selain nomer telepon_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b12ce16a-d1b8-49f0-9576-e7ce02cc3941</testCaseGuid>
+</TestCaseEntity>
